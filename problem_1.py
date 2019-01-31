@@ -1,3 +1,6 @@
+#This program finds the sum of all the multiples of 5 and 3 that are less than 1000.
+#Madhav Malhotra
+
 #This initialises the sum variable
 sum = 0;
 #This initialises a list to hold all the multiples
